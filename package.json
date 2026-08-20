@@ -1,0 +1,11 @@
+{
+  "name": "dictbot",
+  "version": "1.0.0",
+  "description": "A bot that defines words and gives usage examples.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
